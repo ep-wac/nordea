@@ -64,6 +64,7 @@ The gem should work with Ruby 1.8.7, Ruby 1.9.2, jRuby, REE, and Rubinius.
 
 [![Build Status](http://travis-ci.org/k33l0r/nordea.png)](http://travis-ci.org/k33l0r/nordea)
 
+ep-wac update 14-04-2012: removed the dependency on money 3.7.1 in order for money-rails to work with money
 
 About the data and data source
 ------------------------------
